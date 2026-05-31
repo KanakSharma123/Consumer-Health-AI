@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+}
+
+.container{
+    text-align:center;
+    margin-top:50px;
+}
+
+#preview{
+    max-width:300px;
+    max-height:300px;
+    border-radius:10px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+.result-card{
+    margin-top:20px;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+}
